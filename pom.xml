@@ -11,7 +11,7 @@
 
 	<groupId>com.javanibble.maven.examples</groupId>
 	<artifactId>SpringBootMavenReleasePlugin</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 
 	<name>SpringBoot Maven Release Plugin</name>
 	<description>A simple console application making use of Spring Boot illustrating the Maven Release Plugin.</description>
